@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk,Label,CENTER
 from PIL import ImageTk, Image
 #modules: tkinter, pillow
 
