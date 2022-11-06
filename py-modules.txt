@@ -1,0 +1,4 @@
+This includes modules required for running the Python file
+
+_tkinter
+_pillow
